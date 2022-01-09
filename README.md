@@ -1,4 +1,6 @@
-There is no system but [GNU](https://www.gnu.org/), and [Linux](https://opensource.com/resources/linux) is one of its kernels - [Richard Stallman](https://stallman.org/saint.html)
+High school student, learning computer science. Loving Linux, open source, and [Free software](https://fsf.org).
+
+> There is no system but [GNU](https://www.gnu.org/), and [Linux](https://opensource.com/resources/linux) is one of its kernels - [Richard Stallman](https://stallman.org/saint.html)
 
 <!---
 willcclark/willcclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
